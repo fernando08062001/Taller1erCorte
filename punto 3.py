@@ -12,4 +12,4 @@ porcventas = ventas * 0.15
 
 pagomes = vend + porcventas
 
-print(f"EL total ganado por el vendedor en el mes de febrero seria: {pagomes}")
+print(f"EL total  ganado por el vendedor en el mes de febrero seria: {pagomes}")
