@@ -19,3 +19,5 @@ print(f"Para el area de Telecomunicaciones = {vtelecomunicaciones} ")
 print(f"Para el area de sistemas = {vsistemas} ")
 print(f"Para el area de administracion = {vadministracion} ")
 print(f"Para el area de contabilidad = {vcontabilidad} ")
+
+
